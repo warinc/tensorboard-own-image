@@ -2,7 +2,9 @@
 tensorboard-own-image
 
 Note: All files are in VGG_model folder.
-Note: This script run with 2 classes exmaple (metadata_2_classes.tsv save in folder of embedding-logs)
+
+Note: This script run with 2 classes exmaple (metadata_2_classes.tsv save in folder of embedding-logs).
+
 Note: For Keras 2.0 need to download "vgg16_weights_tf_dim_ordering_tf_kernels.h5" and put into the folder of VGG_model.
 
 Step to process and run script
